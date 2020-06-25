@@ -1,2 +1,1 @@
-# git_test
-Odin Project Full Stack Path
+This is Gabriel's first git project!
